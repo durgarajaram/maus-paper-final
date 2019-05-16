@@ -1,0 +1,205 @@
+\begin{thebibliography}{10}
+
+\bibitem{CoolingIPAC18}
+{MICE Collaboration: T. Mohayai et al.}
+\newblock {First Demonstration of Ionization Cooling in MICE}.
+\newblock In {\em Proc. 2018 International Particle Accelerator Conference,
+  Vancouver}, 2018.
+\newblock FRXGBE3,
+  \href{https://doi.org/10.18429/JACoW-IPAC2018-FRXGBE3}{https://doi.org/10.18429/JACoW-IPAC2018-FRXGBE3}.
+
+\bibitem{IDR}
+{The IDS-NF collaboration}.
+\newblock International design study for the neutrino factory: Interim design
+  report, 2011.
+\newblock IDS-NF-020,
+  \href{https://www.ids-nf.org/wiki/FrontPage/Documentation}{https://www.ids-nf.org/wiki/FrontPage/Documentation}.
+
+\bibitem{MC_Overview}
+Steve Geer.
+\newblock Muon {C}olliders and {N}eutrino {F}actories.
+\newblock {\em Annual Review of Nuclear and Particle Science}, 59:345 -- 367,
+  2009.
+
+\bibitem{BeamlineJINST}
+M.~Bogomilov et~al.
+\newblock {The MICE Muon Beam on ISIS and the beam-line instrumentation of the
+  Muon Ionization Cooling Experiment}.
+\newblock {\em JINST}, 7:P05009, 2012.
+
+\bibitem{BeamCharacterisationEurPhysJ}
+D.~Adams et~al.
+\newblock {Characterisation of the muon beams for the Muon Ionisation Cooling
+  Experiment}.
+\newblock {\em Eur. Phys. J.}, C73(10):2582, 2013.
+
+\bibitem{NIMA_TOF}
+R.~Bertoni et~al.
+\newblock The design and commissioning of the {MICE} upstream time-of-flight
+  system.
+\newblock {\em {Nucl. Instrum. Meth.}}, A615:14 -- 26, 2010.
+
+\bibitem{KLOE}
+{KLOE} Collaboration.
+\newblock The {KLOE} electromagnetic calorimeter.
+\newblock {\em Nucl. Instrum. Meth.}, A494:326 -- 331, 2002.
+
+\bibitem{KLOE2}
+F.~Ambrosino et~al.
+\newblock Calibration and performances of the {KLOE} calorimeter.
+\newblock {\em Nucl. Instrum. Meth.}, A598:239 -- 243, 2009.
+
+\bibitem{PionContaminationJINST}
+D.~Adams et~al.
+\newblock {Pion Contamination in the MICE Muon Beam}.
+\newblock {\em JINST}, 11(03):P03001, 2016.
+
+\bibitem{EMRJINST}
+D.~Adams et~al.
+\newblock {Electron-muon ranger: performance in the MICE muon beam}.
+\newblock {\em JINST}, 10(12):P12012, 2015.
+
+\bibitem{EMRJINST11}
+R.~Asfandiyarov et~al.
+\newblock {The design and construction of the MICE Electron-Muon Ranger}.
+\newblock {\em JINST}, 11(10):T10007, 2016.
+
+\bibitem{FirstSingleParticle}
+D.~Adams et~al.
+\newblock {First particle-by-particle measurement of emittance in the Muon
+  Ionization Cooling Experiment}.
+\newblock {\em Eur. Phys. J.}, C79(3):257, 2019.
+
+\bibitem{CkovIEEE}
+{L. Cremaldi, D. A. Sanders, P. Sonnek, D. J. Summers, and J. Reidy, Jr}.
+\newblock A cherenkov radiation detector with high density aerogels.
+\newblock {\em {IEEE Trans. Nucl. Sci.}}, 56:1475--1478, 2009.
+
+\bibitem{TrackersNIM}
+M.~Ellis, P.R. Hobson, P.~Kyberd, J.J. Nebrensky, A.~Bross, et~al.
+\newblock {The Design, construction and performance of the MICE scintillating
+  fibre trackers}.
+\newblock {\em Nucl. Instrum. Meth.}, A659:136--153, 2011.
+
+\bibitem{SCONS}
+\href{https://scons.org}{https://scons.org}.
+
+\bibitem{bazaar}
+\href{https://bazaar.canonical.com}{https://bazaar.canonical.com}.
+
+\bibitem{launchpad}
+\href{https://launchpad.net}{https://launchpad.net}.
+
+\bibitem{ROOT}
+R.~Brun and F.~Rademakers.
+\newblock Root - an object oriented data analysis framework.
+\newblock {\em Nucl. Instrum. Meth.}, A389:81 -- 86, 1997.
+\newblock \href{https://root.cern.ch}{https://root.cern.ch}.
+
+\bibitem{GEANT4}
+S~Agnostinelli et~al.
+\newblock Geant4 {-} a simulation toolkit.
+\newblock {\em Nucl. Instrum. Meth.}, A506:250 -- 303, 2003.
+
+\bibitem{scilinux}
+\href{https://scientifixlinux.org}{https://scientificlinux.org}.
+
+\bibitem{centos}
+\href{https://centos.org}{https://centos.org}.
+
+\bibitem{fedora}
+\href{https://getfedora.org}{https://getfedora.org}.
+
+\bibitem{ubuntu}
+\href{https://ubuntu.com}{https://ubuntu.com}.
+
+\bibitem{MapReduce}
+J.~Dean and S.~Ghemawat.
+\newblock {MapReduce}: Simplified data processing on large clusters.
+\newblock In {\em Proceedings of {OSDI}04}, 2004.
+\newblock
+  \href{http://research.google.com/archive/mapreduce.html}{http://research.google.com/archive/mapreduce.html}.
+
+\bibitem{JSON}
+\href{https://json.org}{https://json.org}.
+
+\bibitem{JSONCPP}
+\href{https://github.com/open-source-parsers/jsoncpp}{https://github.com/open-source-parsers/jsoncpp}.
+
+\bibitem{Jenkins}
+\href{https://jenkins-ci.org}{https://jenkins-ci.org}.
+
+\bibitem{G4Beamline}
+Thomas~J. Roberts and Daniel~M. Kaplan.
+\newblock {G4BeamLine} programme for matter dominated beamlines.
+\newblock In {\em Proc. 2007 Particle Accelerator Conference, Albuquerque},
+  2007.
+\newblock THPAN103.
+
+\bibitem{ICOOL}
+R.~C. Fernow.
+\newblock Icool: A simulation code for ionization cooling of muon beams.
+\newblock In {\em Proc. 1999 Particle Accelerator Conference, New York}, 1999.
+
+\bibitem{GEANT4HPhysics}
+J~Apostolakis et~al.
+\newblock {Geometry and physics of the geant4 toolkit for high and medium
+  energy applications}.
+\newblock {\em Radiation Physics and Chemistry}, 78(10):859 -- 873, 2009.
+
+\bibitem{GDML}
+J.~McCormick R.~Chytracek.
+\newblock Geometry description markup language for physics simulation and
+  analysis applications.
+\newblock {\em IEEE Trans. Nucl. Sci.}, 53:2892--2896, 2006.
+
+\bibitem{fastrad}
+\href{https://fastrad.net}{https://fastrad.net}.
+
+\bibitem{xslt}
+\href{https://www.w3.org/standards/xml/transformation}{https://www.w3.org/standards/xml/transformation}.
+
+\bibitem{PennEnvelope}
+G.~Penn.
+\newblock Beam envelope equations in a solenoidal field.
+\newblock {\em Phys. Rev. Lett.}, 85:764 -- 767, 2000.
+
+\bibitem{NonlinearNote}
+R.D. Ryne and C.~Rogers.
+\newblock Nonlinear effects in the {MICE} step iv lattice.
+\newblock {MICE} {N}ote 461,
+  \href{http://mice.iit.edu/micenotes/public/pdf/MICE0461/MICE0461.pdf}{http://mice.iit.edu/micenotes/public/pdf/MICE0461/MICE0461.pdf},
+  2015.
+
+\bibitem{MiddletonThesis}
+Sophie~Charlotte Middleton.
+\newblock {\em {Characterisation of the MICE experiment}}.
+\newblock PhD thesis, Imperial College London, 2018.
+
+\bibitem{MaryLie}
+{R.D. Ryne et al.}
+\newblock {Recent progress on the MARYLIE/IMPACT beam dynamics code}.
+\newblock In {\em Proc. 9th International Computational Accelerator Physics
+  Conference (ICAP 06)}, 2006.
+\newblock
+  \href{http://icap2006.web.cern.ch/icap2006/}{http://icap2006.web.cern.ch/icap2006/}.
+
+\bibitem{MAUSNuFact}
+C.T Rogers et~al.
+\newblock Muon front end for the neutrino factory.
+\newblock {\em Phys. Rev. ST Accel. Beams}, 16:040104, 2013.
+
+\bibitem{TrackerSoftwareJINST}
+A.~Dobbs, C.~Hunt, K.~Long, E.~Santos, M.A. Uchida, P.~Kyberd, C.~Heidt,
+  S.~Blot, and E.~Overton.
+\newblock The reconstruction software for the mice scintillating fibre
+  trackers.
+\newblock {\em JINST}, 11(12):T12001, 2016.
+
+\bibitem{Django}
+\href{https://www.djangoproject.com}{https://www.djangoproject.com}.
+
+\bibitem{GridPP}
+\href{https://www.gridpp.ac.uk}{https://www.gridpp.ac.uk}.
+
+\end{thebibliography}

@@ -1,0 +1,27 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}The MICE experiment}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Software requirements}{2}{subsection.1.2}
+\contentsline {section}{\numberline {2}MAUS}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Code design}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Data structure}{6}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Physics data}{6}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Top level data organization}{11}{subsubsection.2.2.2}
+\contentsline {subsection}{\numberline {2.3}Data flow}{11}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Testing}{11}{subsection.2.4}
+\contentsline {section}{\numberline {3}Monte Carlo}{13}{section.3}
+\contentsline {subsection}{\numberline {3.1}Beam generation}{13}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Geant4}{13}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Geometry}{14}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Tracking, field maps and beam optics}{15}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Detector response and digitization}{16}{subsection.3.5}
+\contentsline {section}{\numberline {4}Reconstruction}{16}{section.4}
+\contentsline {subsection}{\numberline {4.1}Time of flight}{16}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Scintillating-fiber trackers}{17}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}KL calorimeter}{18}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Electron-muon ranger}{19}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Cherenkov}{19}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}Global reconstruction}{19}{subsection.4.6}
+\contentsline {subsubsection}{\numberline {4.6.1}Global track matching}{19}{subsubsection.4.6.1}
+\contentsline {subsubsection}{\numberline {4.6.2}Global PID}{19}{subsubsection.4.6.2}
+\contentsline {subsection}{\numberline {4.7}Online reconstruction}{20}{subsection.4.7}
+\contentsline {section}{\numberline {5}Summary}{20}{section.5}
